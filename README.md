@@ -1,6 +1,6 @@
 <div align="center">
 
-	<img src="docs/logo.png" alt="Visuality x Clarity Logo" width="120" />
+	<img src="https://raw.githubusercontent.com/melle1407/visuality-x-clarity-release/main/docs/logo.png" alt="Visuality x Clarity Logo" width="120" />
 
 	# Visuality x Clarity Video Editor
 
@@ -53,7 +53,7 @@ We prioritize safety and transparency. Every release is thoroughly analyzed acro
 | **SHA-256 Hash** | `a3aae7d80829683e87f135de5152c3286f20b563b60b6c2dd1d343fa01f67151` |
 
 > [!NOTE]
-> Verify the SHA-256 checksum of your downloaded `.zip` file against the hash listed above before extracting it.
+> You can verify the integrity of your download by checking the SHA-256 checksum of your downloaded `.zip` file against the hash listed above.
 
 <br />
 
@@ -63,7 +63,7 @@ We prioritize safety and transparency. Every release is thoroughly analyzed acro
 
 1. Go to the [Releases Page](https://github.com/melle1407/visuality-x-clarity-release/releases/latest).
 2. Download `Visuality-Clarity-1.0.0-x64.zip`.
-3. Extract the ZIP and run `Visuality & Clarity.exe`.
+3. Extract the contents and run `Visuality & Clarity.exe`.
 
 ### Screenshots
 
@@ -79,6 +79,7 @@ Need help, have feature suggestions, or want to showcase your edits? Join our of
 
 | Visuality | Clarity Services |
 | :---: | :---: |
+| [![Visuality Server](https://invidget.swd.team/visuality)](https://discord.gg/visuality) | [![Clarity Services Server](https://invidget.swd.team/clarityservices)](https://discord.gg/clarityservices) |
 | [Join Visuality Community](https://discord.gg/visuality) | [Join Clarity Services](https://discord.gg/clarityservices) |
 
 </div>
