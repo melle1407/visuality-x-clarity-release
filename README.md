@@ -1,97 +1,93 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/melle1407/visuality-x-clarity-release/main/logo.png" alt="Visuality x Clarity Logo" width="120" />
+	<img src="docs/logo.png" alt="Visuality x Clarity Logo" width="120" />
 
-  # Visuality x Clarity Video Editor
+	# Visuality x Clarity Suite
 
-  **An aesthetic, powerful, and streamlined editing application built for modern creators.**
+	**An aesthetic, powerful, and streamlined desktop experience built for modern creators.**
 
-  [![GitHub release](https://img.shields.io/github/v/release/melle1407/visuality-x-clarity-release?style=for-the-badge&color=7289da)](https://github.com/melle1407/visuality-x-clarity-release/releases)
-  [![GitHub downloads](https://img.shields.io/github/downloads/melle1407/visuality-x-clarity-release/total?style=for-the-badge&color=5865F2)](https://github.com/melle1407/visuality-x-clarity-release/releases)
-  [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F54%20Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/)
-  [![Visuality Discord](https://img.shields.io/badge/Discord-Visuality-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/visuality)
-  [![Clarity Discord](https://img.shields.io/badge/Discord-Clarity_Services-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/clarityservices)
+	[![GitHub release](https://img.shields.io/github/v/release/melle1407/visuality-x-clarity-release?style=for-the-badge&color=7289da)](https://github.com/melle1407/visuality-x-clarity-release/releases)
+	[![GitHub downloads](https://img.shields.io/github/downloads/melle1407/visuality-x-clarity-release/total?style=for-the-badge&color=5865F2)](https://github.com/melle1407/visuality-x-clarity-release/releases)
+	[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F54%20Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/)
+	[![Visuality Discord](https://img.shields.io/badge/Discord-Visuality-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/visuality)
+	[![Clarity Discord](https://img.shields.io/badge/Discord-Clarity_Services-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/clarityservices)
 
-  ---
+	<br />
 
-  [Download Latest Release](https://github.com/melle1407/visuality-x-clarity-release/releases) • [Join Visuality](https://discord.gg/visuality) • [Join Clarity Services](https://discord.gg/clarityservices)
+	[Download Latest Release](https://github.com/melle1407/visuality-x-clarity-release/releases) • [Join Visuality](https://discord.gg/visuality) • [Join Clarity Services](https://discord.gg/clarityservices)
 
 </div>
 
-<br />
-
-## 📸 Interface Preview
+## Interface Preview
 
 <div align="center">
 
-| Login & Authentication | Workspace View |
+| Workspace | Product View |
 | :---: | :---: |
-| <img src="docs/screenshots/login.png" width="400" alt="Login Screen" /> | <img src="docs/screenshots/dashboard.png" width="400" alt="Editor Screen" /> |
+| <img src="docs/screenshots/workspace.png" width="400" alt="Workspace view" /> | <img src="docs/screenshots/product.png" width="400" alt="Product view" /> |
+
+<br />
+
+<img src="docs/screenshots/mobile.png" width="280" alt="Mobile view" />
 
 </div>
 
-<br />
+## Features
 
-## ✨ Features
+- **Modern, minimal interface:** Focused layouts with a restrained visual system.
+- **Discord authentication:** One login flow for Visuality and Clarity access.
+- **Rounded desktop shell:** Scrollable screens with consistent window clipping and draggable space.
+- **Creator resources:** Product content and resources for Visuality and Clarity users.
+- **Cross-platform release:** macOS ARM64 and Windows x64 builds are published from GitHub Releases.
 
-- **Modern & Minimal UI:** Designed from the ground up for speed, aesthetics, and zero visual clutter.
-- **Seamless Authentication:** Secure login flow powered by integrated authentication.
-- **Optimized Performance:** Fast video processing engine tailored for smooth playback and timeline scrub.
-- **Creator Resources:** Built-in hooks and integrations powered by **Visuality** and **Clarity Services**.
+## Download
 
-<br />
+Download the latest files from the [GitHub Releases page](https://github.com/melle1407/visuality-x-clarity-release/releases/latest).
 
-## 🛡️ Security & Integrity Scan
+### Windows
 
-We prioritize safety and transparency. Every release is thoroughly analyzed across major security engines prior to deployment[cite: 1].
+Download `Visuality-Clarity-1.0.0-x64.zip`, extract it, and run `Visuality & Clarity.exe`.
 
-| File Verification | Details |
+### macOS
+
+Download `Visuality-Clarity-1.0.0-arm64.dmg`, open it, and drag the app into Applications.
+
+## Security Verification
+
+The Windows ZIP was scanned by VirusTotal with no vendors flagging it at the time of release.
+
+| File | Value |
 | :--- | :--- |
-| **File Name** | `Visuality-Clarity-1.0.0-x64.zip`[cite: 1] |
-| **File Size** | `156.09 MB`[cite: 1] |
-| **VirusTotal Result** | **0 / 54** Security Vendors Flagged (100% Clean)[cite: 1] |
-| **SHA-256 Hash** | `a3aae7d80829683e87f135de5152c3286f20b563b60b6c2dd1d343fa01f67151`[cite: 1] |
+| File | `Visuality-Clarity-1.0.0-x64.zip` |
+| Size | 156.09 MB |
+| VirusTotal | 0 / 54 vendors flagged |
+| SHA-256 | `a3aae7d80829683e87f135de5152c3286f20b563b60b6c2dd1d343fa01f67151` |
 
-> [!NOTE]
-> You can verify the integrity of your download by checking the SHA-256 checksum of your downloaded `.zip` file against the hash listed above[cite: 1].
+Verify the SHA-256 checksum of the downloaded ZIP before extracting it.
 
-<br />
+## Project Structure
 
-## 🚀 Getting Started
+- `apps/visual-hero-effect`: launch screen and hero experience
+- `apps/welcome-hub`: Discord login, license checks, app picker, and Electron release shell
+- `apps/vision-clarity-hub`: Visuality and Clarity product content
+- `docs/`: README logo and interface screenshots
 
-### Installation
+## Development
 
-1. Go to the [Releases Page](https://github.com/melle1407/visuality-x-clarity-release/releases/latest).
-2. Download `Visuality-Clarity-1.0.0-x64.zip`[cite: 1].
-3. Extract the contents and run the setup application.
+Each app has its own `package.json` and build scripts. Run commands from the relevant app directory:
 
-### Screenshots Setup
-To ensure your screenshots load correctly in this README:
-1. Create a folder named `docs/screenshots` in your root repository directory.
-2. Place your login screen image inside and name it `login.png`.
-3. Add any main editor screenshots as `dashboard.png`.
+```bash
+npm install
+npm run dev
+```
 
-<br />
+Never commit `.env` files or server secrets. Use the hosting provider's secret store for Discord, Supabase, and session secrets.
 
-## 💬 Community & Support
+## Community & Support
 
-Need help, have feature suggestions, or want to showcase your edits? Join our official Discord servers:
-
-<div align="center">
-
-| Visuality | Clarity Services |
-| :---: | :---: |
-| [![Visuality Server](https://invidget.swd.team/visuality)](https://discord.gg/visuality) | [![Clarity Services Server](https://invidget.swd.team/clarityservices)](https://discord.gg/clarityservices) |
-| [Join Visuality Community](https://discord.gg/visuality) | [Join Clarity Services](https://discord.gg/clarityservices) |
-
-</div>
-
-<br />
-
-## 🤝 Collaboration
-
-This application is brought to you by the combined efforts of **Visuality** and **Clarity Services**.
+- [Visuality Discord](https://discord.gg/visuality)
+- [Clarity Services Discord](https://discord.gg/clarityservices)
 
 <div align="center">
-  <sub>Created with ❤️ by <a href="https://github.com/melle1407">melle1407</a> & Teams.</sub>
+	<sub>Created by <a href="https://github.com/melle1407">melle1407</a> and the Visuality & Clarity teams.</sub>
 </div>
