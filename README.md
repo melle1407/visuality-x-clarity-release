@@ -52,6 +52,10 @@ We prioritize safety and transparency. Every release is thoroughly analyzed acro
 | **VirusTotal Result** | **0 / 54 Security Vendors Flagged (100% Clean)** |
 | **SHA-256 Hash** | `a3aae7d80829683e87f135de5152c3286f20b563b60b6c2dd1d343fa01f67151` |
 
+<div align="center">
+	<img src="docs/screenshots/security.png" width="900" alt="VirusTotal security scan" />
+</div>
+
 > [!NOTE]
 > You can verify the integrity of your download by checking the SHA-256 checksum of your downloaded `.zip` file against the hash listed above.
 
