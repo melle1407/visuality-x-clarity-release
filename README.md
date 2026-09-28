@@ -1,20 +1,20 @@
 <div align="center">
 
-	<img src="https://raw.githubusercontent.com/melle1407/visuality-x-clarity-release/main/docs/logo.png" alt="Visuality x Clarity Logo" width="120" />
+<img src="https://raw.githubusercontent.com/melle1407/visuality-x-clarity-release/main/docs/logo.png" alt="Visuality x Clarity Logo" width="120" />
 
-	# Visuality x Clarity Video Editor
+# Visuality x Clarity Video Editor
 
-	**An aesthetic, powerful, and streamlined editing application built for modern creators.**
+**An aesthetic, powerful, and streamlined editing application built for modern creators.**
 
-	[![GitHub release](https://img.shields.io/github/v/release/melle1407/visuality-x-clarity-release?style=for-the-badge&color=7289da)](https://github.com/melle1407/visuality-x-clarity-release/releases)
-	[![GitHub downloads](https://img.shields.io/github/downloads/melle1407/visuality-x-clarity-release/total?style=for-the-badge&color=5865F2)](https://github.com/melle1407/visuality-x-clarity-release/releases)
-	[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F54%20Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/)
-	[![Visuality Discord](https://img.shields.io/badge/Discord-Visuality-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/visuality)
-	[![Clarity Discord](https://img.shields.io/badge/Discord-Clarity_Services-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/clarityservices)
+[![GitHub release](https://img.shields.io/github/v/release/melle1407/visuality-x-clarity-release?style=for-the-badge&color=7289da)](https://github.com/melle1407/visuality-x-clarity-release/releases)
+[![GitHub downloads](https://img.shields.io/github/downloads/melle1407/visuality-x-clarity-release/total?style=for-the-badge&color=5865F2)](https://github.com/melle1407/visuality-x-clarity-release/releases)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F54%20Clean-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/)
+[![Visuality Discord](https://img.shields.io/badge/Discord-Visuality-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/visuality)
+[![Clarity Discord](https://img.shields.io/badge/Discord-Clarity_Services-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/clarityservices)
 
-	---
+---
 
-	[Download Latest Release](https://github.com/melle1407/visuality-x-clarity-release/releases) • [Join Visuality](https://discord.gg/visuality) • [Join Clarity Services](https://discord.gg/clarityservices)
+[Download Latest Release](https://github.com/melle1407/visuality-x-clarity-release/releases) • [Join Visuality](https://discord.gg/visuality) • [Join Clarity Services](https://discord.gg/clarityservices)
 
 </div>
 
