@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/melle1407/visuality-x-clarity-release/main/docs/logo.png" alt="Visuality x Clarity Logo" width="120" />
 
-# Visuality x Clarity Video Editor
+# Visuality x Clarity
 
 **An aesthetic, powerful, and streamlined editing application built for modern creators.**
 
@@ -95,5 +95,5 @@ Need help, have feature suggestions, or want to showcase your edits? Join our of
 This application is brought to you by the combined efforts of **Visuality** and **Clarity Services**.
 
 <div align="center">
-	<sub>Created with ❤️ by <a href="https://github.com/melle1407">melle1407</a> & Teams.</sub>
+	<sub>Created with ❤️ by <a href="https://github.com/melle1407">melle1407</a> & BrxmmetjeNL.</sub>
 </div>
